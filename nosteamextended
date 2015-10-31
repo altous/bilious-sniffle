@@ -1,0 +1,9 @@
+@echo off
+Title Extended Screen Windows Startup
+ehco.
+echo Launching following items . . .
+echo.
+
+rem killproc for steam.exe or use PID
+
+pause
